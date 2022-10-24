@@ -12,7 +12,9 @@ import random
 
 def dist(p1, p2):
     """
-    Find the euclidean distance between two 2-D points
+    Find the euclidean distance between two 2-D points 
+    
+    # Euclidean distance is defined as the distance between two points
 
     Args:
         p1: (p1_x, p1_y)
